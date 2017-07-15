@@ -1,7 +1,2 @@
 package.json usr/lib/nodejs/builtins/
-test.js usr/lib/nodejs/builtins/
-.travis.yml usr/lib/nodejs/builtins/
-License usr/lib/nodejs/builtins/
-Readme.md usr/lib/nodejs/builtins/
 builtins.json usr/lib/nodejs/builtins/
-History.md usr/lib/nodejs/builtins/
